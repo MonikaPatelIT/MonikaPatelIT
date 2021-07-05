@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Unit testing skills 
+- 🌱 I’m currently learning Jest framework
+- ⚡ Fun fact: I love to spend my weekends with outdoor activities
+
+<!-- - 📫 How to reach me: ... -->
 <!--
 **MonikaPatelIT/MonikaPatelIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
