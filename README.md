@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+#### I am Monika Patel. I am currently based in Auckland, New Zeland - land of extra ordinary landscapes.
+
 
 - 🔭 I’m currently working on Unit testing skills 
 - 🌱 I’m currently learning Jest framework
-- ⚡ Fun fact: I love to spend my weekends with outdoor activities
+- ⚡ Fun fact: I love to spend my weekends doing outdoor activities mainly hiking.
 
-<!-- - 📫 How to reach me: ... -->
 <!--
 **MonikaPatelIT/MonikaPatelIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
